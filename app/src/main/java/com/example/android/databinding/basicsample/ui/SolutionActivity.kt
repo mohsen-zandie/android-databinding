@@ -28,7 +28,7 @@ import com.example.android.databinding.basicsample.databinding.SolutionBinding
  * Final codelab solution.
  */
 class SolutionActivity : AppCompatActivity() {
-
+    //First Contribution
     // Obtain ViewModel from ViewModelProviders
     private val viewModel by lazy {
         ViewModelProviders.of(this).get(SimpleViewModelSolution::class.java)
